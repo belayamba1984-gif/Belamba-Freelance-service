@@ -1,0 +1,11 @@
+{
+  "announcement": {
+    "enabled": false,
+    "text": "",
+    "link": "",
+    "start": "",
+    "end": ""
+  },
+  "offers": [],
+  "posts": []
+}
